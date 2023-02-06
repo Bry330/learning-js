@@ -6,3 +6,4 @@
 }());
 
 console.log(fres())
+console.log(fres())
